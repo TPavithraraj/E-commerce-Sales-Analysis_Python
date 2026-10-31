@@ -1,4 +1,3 @@
-# E-commerce-Sales-Analysis_Python
 # Ecommerce Sales Analysis Using Python
 
 ## Project Overview
